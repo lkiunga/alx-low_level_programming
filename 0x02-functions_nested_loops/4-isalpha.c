@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *_isapha - print alpha
+ *_isalpha - print alpha
  *@c : character to be traced
  *
- *Description : _isalpha lpha letters
+ *Description: output alphabets
  *Return: 1 true 0 false
  */
 int _isalpha(int c)
