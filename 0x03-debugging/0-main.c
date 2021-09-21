@@ -7,10 +7,10 @@
 
 int main(void)
 {
-        int i;
+int i;
 
-        i = 0;
-        positive_or_negative(i);
-	printf("results of the funtion\n");
-        return (0);
+i = 0;
+positive_or_negative(i);
+printf("results of the funtion\n");
+return (0);
 }
