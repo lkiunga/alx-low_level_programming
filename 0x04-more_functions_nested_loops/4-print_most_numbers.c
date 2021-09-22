@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  *print_most_numbers - start point of void
  *
@@ -25,5 +24,5 @@ _putchar(i);
 }
 }
 _putchar('\n');
-return (0);
+return;
 }
