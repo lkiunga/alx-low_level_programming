@@ -3,11 +3,11 @@
 /**
  *_isupper - check for uppercase letters
  *
- *@n: the character to be traced
+ *@c: the character to be traced
  *Description: checks for Uppercase letters
  *Return: 0 if false $ 1 if true
  */
-int _isuppper(int n)
+int _isupper(int c)
 {
-return (n == 'A' && n <= 'Z');
+return (c == 'A' && c <= 'Z');
 }
