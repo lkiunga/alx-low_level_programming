@@ -28,9 +28,9 @@ printf("Buzz");
 }
 else 
 {
-printf("%d", i);
+printf("%i", i);
 }
-putchar(' ');
+printf(' ');
 }
 putchar('\n');
 return (0);
