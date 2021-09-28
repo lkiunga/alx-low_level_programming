@@ -12,8 +12,8 @@ int i;
 i = 0;
 while (src[i])
 {
-i++;
 dest[i] = src[i];
+i++;
 }
 dest[i] = src[i];
 return (dest);
